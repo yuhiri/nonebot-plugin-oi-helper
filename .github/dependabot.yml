@@ -15,4 +15,4 @@ updates:
     commit-message:
       prefix: "🤖 CI(deps)"
     reviewers:
-      - talentestors
+      - yuhiri
